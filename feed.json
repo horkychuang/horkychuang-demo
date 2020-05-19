@@ -9,19 +9,5 @@
         "name": "horkychuang"
     },
     "items": [
-        {
-            "id": "https://horkychuang.github.io/horkychuang-demo/welcome.html",
-            "url": "https://horkychuang.github.io/horkychuang-demo/welcome.html",
-            "title": "Welcome",
-            "summary": "Welcome to My new Blogs - Horky Home.",
-            "content_html": "Welcome to My new Blogs - Horky Home.",
-            "author": {
-                "name": "horkychuang"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-19T18:21:15+08:00",
-            "date_modified": "2020-05-19T18:26:31+08:00"
-        }
     ]
 }
